@@ -10,7 +10,9 @@ public class Main {
         // s.streamTutorial();
         s.streamTutorial();
         // System.out.println(s.filterEvenIntegers(Arrays.asList(1,2,3,4)));
-        s.findFirstDistinct("Harish");
-        s.findDistinctStrings(Arrays.asList("Harish", "Kanna","Harish"));
+        // s.findFirstDistinct("Harish");
+        // s.findDistinctStrings(Arrays.asList("Harish", "Kanna","Harish"));
+        s.convertToHashTagString("Hello  WOrLD");
+        s.camelCaseString("HeLlO wOrLd");
     }
 }
