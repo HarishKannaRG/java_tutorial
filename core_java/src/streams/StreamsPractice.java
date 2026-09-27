@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
-public class Streams {
+public class StreamsPractice {
     public static void printName(String name) {
         System.out.println("name:"+name);
     }
